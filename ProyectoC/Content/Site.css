@@ -19,3 +19,32 @@ textarea {
         padding: 0;
     }
 }
+
+/* evita que celdas largas expandan la tabla */
+/*table.table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+    table.table th, table.table td {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        vertical-align: middle;
+    }*/
+
+/* separaciones visuales */
+/*.card-body.p-3 {
+    padding: 1rem !important;
+}
+
+.row.align-items-start {
+    align-items: flex-start !important;
+}*/
+/* Grilla: tamaño y scroll */
+/* Legibilidad y scroll */
+
+
+
+
+

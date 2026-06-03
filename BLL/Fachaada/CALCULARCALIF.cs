@@ -42,20 +42,20 @@ namespace BLL.Fachaada
     //        }
     //    }
 
-        // Clase Alumno compartida
-        //public class Alumno
-        //{
-        //    public string Nombre { get; set; }
-        //    public string Materia { get; set; }
-        //    public string Matricula { get; set; }
-        //    public double Parcial1 { get; set; }
-        //    public double Parcial2 { get; set; }
-        //    public double TP { get; set; }
-        //    public double ExamenFinal { get; set; }
-        //    public double Total { get; set; }
-        //    public string CalificacionFinal { get; set; }
-        //}
-    }
+    // Clase Alumno compartida
+    //public class Alumno
+    //{
+    //    public string Nombre { get; set; }
+    //    public string Materia { get; set; }
+    //    public string Matricula { get; set; }
+    //    public double Parcial1 { get; set; }
+    //    public double Parcial2 { get; set; }
+    //    public double TP { get; set; }
+    //    public double ExamenFinal { get; set; }
+    //    public double Total { get; set; }
+    //    public string CalificacionFinal { get; set; }
+    //}
+
 
 
     public static class Calculos
@@ -108,8 +108,7 @@ namespace BLL.Fachaada
     //    public double ExamenFinal { get; set; }
     //    public double Total { get; set; }
     //    public string CalificacionFinal { get; set; }
-    
-
+}
 
 
 
