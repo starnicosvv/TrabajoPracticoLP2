@@ -594,7 +594,7 @@
         <div class="form-row">
             <div class="form-group">
                 <label>Nombre del Alumno</label>
-                <asp:TextBox ID="txtNombre" runat="server" CssClass="form-control" Placeholder="Ej: Juan Pérez"></asp:TextBox>
+                <asp:TextBox ID="txtNombre" runat="server" CssClass="form-control" Placeholder=""></asp:TextBox>
             </div>
             <div class="form-group">
                 <label>Materia</label>
@@ -608,7 +608,7 @@
             </div>
             <div class="form-group">
                 <label>Matrícula</label>
-                <asp:TextBox ID="txtMatricula" runat="server" CssClass="form-control" Placeholder="Ej: 12345"></asp:TextBox>
+                <asp:TextBox ID="txtMatricula" runat="server" CssClass="form-control" Placeholder=""></asp:TextBox>
             </div>
         </div>
 
